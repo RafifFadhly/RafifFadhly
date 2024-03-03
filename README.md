@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programmers since 2022<br>📚 I'm currently learning C#, Phyton and PHP<br>🎯 my Goals are make a Great Games</p>
+<p align="left">✨ Programmers since 2022<br>📚 I'm currently learning C#, Phyton and SQL<br>🎯 my Goals are make a Great Games</p>
 
 ###
 
