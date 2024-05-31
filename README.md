@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">✨ Programmers since 2022<br>📚 I'm currently learning C#, Phyton Kotlin, Java and SQL<br>🎯 my Goals are make a Great Games<br>🎮 my Game is in Itch.io not in this github</p>
+✨ **Programmers since 2022**
+
+📚 I'm currently learning C#, Python, Kotlin, Java, and SQL
+
+🎯 My goals are to make great games
+
+🎮 
+
+[My Game](https://rfas-dev.itch.io/)
 
 ###
 
