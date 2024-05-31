@@ -16,9 +16,7 @@
 
 🎯 My goals are to make great games
 
-🎮 
-
-[My Game](https://rfas-dev.itch.io/)
+🎮 [My Game in Itch.io](https://rfas-dev.itch.io/)
 
 ###
 
