@@ -64,14 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafifFadhly&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafifFadhly&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
 
 ## 📫 Connect with me  
 
