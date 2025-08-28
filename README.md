@@ -15,7 +15,7 @@
 - 📚 Currently learning **C#, Dart, Python, PHP and SQL**  
 - 🎯 Goal: build and publish Great Game or Impactful application 
 - 🎮 Check out my games on [Itch.io](https://rfas-dev.itch.io/)
-- 📜 Check out my portofolio on [Github](https://rafiffadhly.github.io/portofolio-web/)  
+- 📜 Check out my portofolio on [My Portofolio Web](https://rafiffadhly.github.io/portofolio-web/)  
 
 ---
 
