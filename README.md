@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 
 - ✨ **Started programming since 2022**  
-- 📚 Currently learning **C#, Dart, Python, PHP and SQL**  
+- 📚 Currently learning **C#,C++, Dart, Python, PHP and SQL**  
 - 🎯 Goal: build and publish Great Game or Impactful application 
 - 🎮 Check out my games on [Itch.io](https://rfas-dev.itch.io/)
 - 📜 Check out my portofolio on [My Portofolio Web](https://rafiffadhly.github.io/portofolio-web/)  
@@ -24,6 +24,8 @@
 ### 💻 Languages  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/csharp-original.svg" height="40" alt="C++" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img width="12"/>
