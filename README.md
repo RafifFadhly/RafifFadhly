@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  🎮 Game Developer | 💻 Novice Programmer | 📍 Indonesia <br/>
+  🎮 Game Developer | 💻 Dekstop Programmer | 📍 Indonesia <br/>
   Currently studying <b>Informatics Engineering</b> at <b>Semarang State University</b>
 </p>
 
